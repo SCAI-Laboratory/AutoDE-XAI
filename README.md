@@ -1,15 +1,6 @@
 
 # Explainable Archive Feedback and Quality-Diversity Search for Automated Design of Differential Evolution Algorithms
 # SAGE-QD-DE: Surrogate-Assisted Quality-Diversity Differential Evolution
-
-## Overview
-
-SAGE-QD-DE is a surrogate-assisted quality-diversity evolutionary framework for generating high-quality Differential Evolution (DE) algorithms using Large Language Models (LLMs). The framework combines MAP-Elites, surrogate modeling, explainable AI, and evolutionary search to efficiently discover diverse and high-performing DE variants.
-
-The repository provides a reproducible implementation of the framework used in our experimental study.
-
----
-
 # Features
 
 * Surrogate-assisted evolutionary search
@@ -226,17 +217,6 @@ The framework automatically generates:
 * TreeSHAP explanations
 * Statistical summaries
 * Figures for publication
-
----
-
-# Reproducibility
-
-All experiments are executed using fixed random seeds.
-
-* Seeds: 1–5
-* Local inference through Ollama
-* Fixed benchmark instances
-* Deterministic experimental configuration
 
 ---
 
