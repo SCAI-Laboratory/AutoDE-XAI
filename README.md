@@ -161,22 +161,6 @@ The default experimental configuration is:
 | Attribution              |                 TreeSHAP |
 
 ---
-
-# Benchmark Configuration
-
-The framework evaluates generated optimizers on the MA-BBOB benchmark.
-
-| Parameter          |                       Value |
-| ------------------ | --------------------------: |
-| Dimension          |                          10 |
-| Training instances |                         0–9 |
-| Test instances     |                      20–119 |
-| Evaluation budget  | 50,000 function evaluations |
-| Search space       |                    [-5,5]^d |
-| Performance metric |                        AOCC |
-
----
-
 # Running Experiments
 
 Run the default experiment:
