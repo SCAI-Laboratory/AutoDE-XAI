@@ -1,6 +1,5 @@
 
 # Explainable Archive Feedback and Quality-Diversity Search for Automated Design of Differential Evolution Algorithms
-# SAGE-QD-DE: Surrogate-Assisted Quality-Diversity Differential Evolution
 # Features
 
 * Surrogate-assisted evolutionary search
