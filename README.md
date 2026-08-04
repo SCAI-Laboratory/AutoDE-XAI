@@ -205,19 +205,6 @@ The framework automatically generates:
 
 # Citation
 
-If you use this repository in your research, please cite the accompanying publication.
-
-```bibtex
-@article{YOUR_PAPER,
-  title={Surrogate-Assisted Quality-Diversity Differential Evolution},
-  author={...},
-  journal={...},
-  year={2026}
-}
-```
-
----
-
 # License
 
 Specify the repository license (e.g., MIT, Apache-2.0, GPL-3.0).
